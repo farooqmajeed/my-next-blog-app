@@ -1,0 +1,8 @@
+.ulContainer{
+    display: flex;
+    flex-wrap: wrap;
+}
+.liContainer{
+    padding: 0 30px;
+    width: 33.33%;
+}
